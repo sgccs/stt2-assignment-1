@@ -1,0 +1,10 @@
+git branch long
+git commit
+git checkout long
+git commit
+git commit
+git commit
+git commit
+git commit
+git commit
+git rebase -i HEAD~6
